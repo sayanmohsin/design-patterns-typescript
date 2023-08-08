@@ -67,3 +67,5 @@ The Decorator Pattern adds responsibilities to objects dynamically.
 Consider a text editing application where users can apply different formatting styles (bold, italic, underline) to text. The Decorator Pattern allows users to add and remove formatting dynamically without altering the original text content.
 
 Indulge in each pattern's segment to dive into its concept, grasp its importance, and experience its practical utility through hands-on TypeScript demonstrations.
+
+https://refactoring.guru/design-patterns
