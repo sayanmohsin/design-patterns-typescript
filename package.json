@@ -7,7 +7,7 @@
     "start": "nodemon -r ts-node/register src/*.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "SayanMohsin",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.4.8",
